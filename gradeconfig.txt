@@ -1,0 +1,6 @@
+Testing
+4
+Projects 40
+Quizzes 30
+Exams 20
+Homework 10

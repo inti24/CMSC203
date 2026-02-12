@@ -1,0 +1,12 @@
+Course: Testing
+Student Name: Alex Johnson
+Category Results: 
+Projects(40%):average = 94.5
+Quizzes(30%):average = 81.25
+Exams(20%):average = 88.0
+Homework(10%):average = 49.779999999999994
+Overall Numeric Average: 84.75
+Base Letter Grade: B
+Final Letter Grade: B
+Summary written to grades_report.txt
+Program complete. Goodbye!
